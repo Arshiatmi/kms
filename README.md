@@ -2,21 +2,21 @@
 This Is KMS Library That Created For Python. Its For Hackers That Need To Create A PowerFul Tool! Because Its Contains Lots Of Things That Hackers Need.
 
 This Is Information Gathering Part Tools:
-1.Get (A) Records
-2.AS Lookup
-3.DNS Lookup
-4.Find DNS Servers
-5.HTTP Headers
-6.IP Location
-7.Page Links
-8.Ping
-9.Reverse IP Lookup
-10.Reverse DNS
-11.Subnet Calcualtor
-12.TCP Port Scanner
-13.TraceRoute
-14.Whois
-15.Zone Transfer
+1. Get (A) Records
+2. AS Lookup
+3. DNS Lookup
+4. Find DNS Servers
+5. HTTP Headers
+6. IP Location
+7. Page Links
+8. Ping
+9. Reverse IP Lookup
+10. Reverse DNS
+11. Subnet Calcualtor
+12. TCP Port Scanner
+13. TraceRoute
+14. Whois
+15. Zone Transfer
 
 It Contains Two Or Three Types Of Hashing.
 And Contains An Inspector That You Can Get Every Some Tags In A Code Or You Can Get Every Information In Site Really Easy!!!
