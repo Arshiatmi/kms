@@ -22,5 +22,14 @@ It Contains Two Or Three Types Of Hashing.
 And Contains An Inspector That You Can Get Every Some Tags In A Code Or You Can Get Every Information In Site Really Easy!!!
 It Contains Two Admin Finder Part And Contains A CMS Finder! For Example You Can Find CMS Js Web Servers And ... With This Command:
 
-`import kms
-kms.find_cms("web Address")`
+`import kms`
+
+`kms.find_cms("web Address")`
+
+Or You Can find Admin Page With These Commands:
+
+`kms.find_admin_php("web Address")`
+
+Or
+
+`kms.find_admin_asp("web Address")`
