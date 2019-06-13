@@ -36,4 +36,10 @@ Or
 
 You Can See Better Explanation And Full Documentation In Wiki...
 
-**It Will Accessable Very Soon...**
+# Installation
+
+For Install Kms Just Install It From PIP:
+
+`pip install kms`
+
+Really Easy!!
