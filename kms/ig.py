@@ -1,4 +1,5 @@
 import requests
+import socket
 
 class IG:
     address = ""
@@ -49,3 +50,7 @@ class IG:
 
     def zone_transfer(self):
         return requests.get("https://api.hackertarget.com/zonetransfer/?q=" + self.address).text
+
+    #new
+    def get_my_ip(self):
+        return socket.gethostbyname(self.address)

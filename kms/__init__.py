@@ -1,6 +1,7 @@
 import os
 import builtwith
 import requests
+import urllib.parse
 from .ig import *
 from .hash import *
 from .list import *
@@ -25,3 +26,7 @@ def find_admin_asp(address):
 
 def find_cms(address):
     return builtwith.builtwith(address)
+
+#new
+def url_encode(string):
+    return urllib.parse.quote(string)
