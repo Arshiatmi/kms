@@ -27,6 +27,6 @@ def find_admin_asp(address):
 def find_cms(address):
     return builtwith.builtwith(address)
 
-#new
+
 def url_encode(string):
     return urllib.parse.quote(string)
