@@ -7,6 +7,7 @@ from .hash import *
 from .list import *
 from colorama import Fore
 from .page_inspect import *
+from .bypass import *
 
 def find_admin_php(address):
     a = []
