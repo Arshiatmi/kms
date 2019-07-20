@@ -1,5 +1,6 @@
 import requests
 import socket
+import os
 
 class IG:
     address = ""
@@ -28,7 +29,7 @@ class IG:
         return requests.get("https://api.hackertarget.com/pagelinks/?q=" + self.address).text
 
     def ping(self):
-        return os.popen("ping -c 1" + address).read()
+        return os.popen("ping -c 1" + self.address).read()
 
     def reverse_ip_lookup(self):
         return requests.get("https://api.hackertarget.com/reverseiplookup/?q=" + self.address).text
