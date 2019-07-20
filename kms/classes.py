@@ -1,4 +1,4 @@
-from get_char_code import *
+from .get_char_code import *
 
 class xss:
     def __init__(self):

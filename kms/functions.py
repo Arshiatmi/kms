@@ -1,4 +1,4 @@
-from get_char_code import *
+from .get_char_code import *
 
 def part(your_string,splitter):
     answers = []
