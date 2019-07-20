@@ -1,8 +1,8 @@
 import codecs
 import html
-from get_char_code import *
-from functions import *
-from classes import *
+from .get_char_code import *
+from .functions import *
+from .classes import *
 
 def xss_reflected_bypass(string):
     a = []
