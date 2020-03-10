@@ -1,5 +1,5 @@
 # KMS
-This Is KMS Library That Created For Hackers In Python Language. Its For Someone Who Need To Create A PowerFul Tool! Because Its Contains Lots Of Things That Hackers Need And Want...
+This Is KMS Library That Created For Hackers In Python Language. Its For Someone Who Need To Create A Hacking Tool! Because Its Contains Lots Of Things That Hackers Need And Want...
 
 This Is Information Gathering Part Tools:
 1. Get (A) Records
